@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Candar&size=30&duration=3500&pause=1000&center=true&width=1000&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Rubayat+Rifat;I'm+a+Front-end+Developer;It's+2023%2C+and+I'm+13;I+LOOOVE+to+write+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Candar&size=30&duration=3500&pause=1000&center=true&width=1000&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Rubayat+Rifat;I'm+a+Front-end+Developer;I+LOOOVE+to+write+code)](https://git.io/typing-svg)
 
 <hr>
 
